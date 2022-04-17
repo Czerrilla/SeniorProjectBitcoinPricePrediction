@@ -18,6 +18,6 @@ Each of the files containts the results for each set of trees for instance colum
 The file below is used for all my machine learning proccesses <br>
 CodeUsedForBitcoinMachineLearning.py <br>
 <br>
-The file howtouseCode gives a little more detail on how to alter and manipulate the code to get the desired results/tests <br>
+The file howToUseCode gives a little more detail on how to alter and manipulate the code to get the desired results/tests <br>
 howToUseCode.txt<br>
 <br>
