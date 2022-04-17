@@ -2,7 +2,7 @@
 This is my senior project for Computer Science at Roanoke College 2022.<br>
 Files<br>
 1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project<br>
-//Data files <br>
+//Data Files <br>
 <br>
 2.BitcoinandNasdaq.csv - holds the Bitcoin and Nasdaq data<br>
 3.BitcoinandEthereumdata.csv - holds the Bitcoin and Ethereum data<br>
@@ -15,7 +15,7 @@ Each of the files containts the results for each set of trees for instance colum
 6.BitcoinNasdaqResults.xlsx<br>
 7.BitcoinandEthereumresults.xlsx<br>
 <br>
-//Code File <br>
+//Code Files <br>
 The file below is used for all my machine learning proccesses <br>
 CodeUsedForBitcoinMachineLearning.py <br>
 <br>
