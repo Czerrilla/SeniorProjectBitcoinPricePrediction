@@ -1,8 +1,9 @@
 # SeniorProjectBitcoinPricePrediction
 This is my senior project for Computer Science at Roanoke College 2022.<br>
 Files<br>
-1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project
+1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project<br>
 //Data files <br>
+<br>
 2.BitcoinandNasdaq.csv - holds the Bitcoin and Nasdaq data<br>
 3.BitcoinandEthereumdata.csv - holds the Bitcoin and Ethereum data<br>
 4.Bitcoindata.csv - holds only the bitcoin data<br>
