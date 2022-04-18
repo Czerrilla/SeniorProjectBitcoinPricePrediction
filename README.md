@@ -8,9 +8,15 @@ Files<br>
 1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project<br>
 //Data Files <br>
 <br>
-2.BitcoinandNasdaq.csv - holds the Bitcoin and Nasdaq data<br>
+2.Bitcoindata.csv - holds only the bitcoin data<br>
 3.BitcoinandEthereumdata.csv - holds the Bitcoin and Ethereum data<br>
-4.Bitcoindata.csv - holds only the bitcoin data<br>
+
+4.BitcoinandNasdaq.csv - holds the Bitcoin and Nasdaq data<br>
+<br>
+The only difference with this .csv is that since NASDAQ does not report on holidays or weekends I had to do simple python code to fill in the empty
+dates with the previous dates' values. For instance any data from a Friday would have been reflected on to Saturday and Sunday to avoid null values.
+<br>
+
 <br>
 //Result Files<br>
 Each of the files containts the results for each set of trees for instance column RMSE 8020 of file BitcoinNasdaqRowResults row 35 represents the RMSE results for an 80 20 training test split for a set of 34 trees each column has a title so the row number -1 is the number of trees used in the set.<br>
