@@ -1,5 +1,9 @@
 # SeniorProjectBitcoinPricePrediction
 This is my senior project for Computer Science at Roanoke College 2022.<br>
+<br>
+This project is designed to Improve the results of previous work done for Bitcoin Price Prediction. The machine learning
+algorithm used is Random Forest. More Information about this project can be found within BitcoinPricePredictionUsingRandomForest.pdf. If any questions arise about the code, data, or results contact Cameron - cgzerrilla@gmail.com.<br>
+<br>
 Files<br>
 1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project<br>
 //Data Files <br>
