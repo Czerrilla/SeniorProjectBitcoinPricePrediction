@@ -5,7 +5,7 @@ This project is designed to Improve the results of previous work done for Bitcoi
 algorithm used is Random Forest. More Information about this project can be found within BitcoinPricePredictionUsingRandomForest.pdf. If any questions arise about the code, data, or results contact Cameron - cgzerrilla@gmail.com.<br>
 <br>
 Files<br>
-1.BitcoinPricePredictionUsingRandomForest.pdf- final report for the project<br>
+1.The_Application_of_Random_Forest_on_the_Closing_Price_Prediction_of_Bitcoin_CameronZerrilla.pdf - final report for the project<br>
 //Data Files <br>
 <br>
 2.Bitcoindata.csv - holds only the bitcoin data<br>
