@@ -11,7 +11,7 @@ Files<br>
 2.Bitcoindata.csv - holds only the bitcoin data<br>
 3.BitcoinandEthereumdata.csv - holds the Bitcoin and Ethereum data<br>
 
-4.BitcoinandNasdaq.csv - holds the Bitcoin and Nasdaq data<br>
+4.BitNas.csv - holds the Bitcoin and Nasdaq data<br>
 <br>
 The only difference with this .csv is that since NASDAQ does not report on holidays or weekends I had to do simple python code to fill in the empty
 dates with the previous dates' values. For instance any data from a Friday would have been reflected on to Saturday and Sunday to avoid null values.
